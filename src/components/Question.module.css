@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Irish+Grover&family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    text-align: center;
+    margin-top: 2vh;
+    font-family:"Irish grover";
+    font-size: 10vh;
+}
+.Div{
+    width: 74vw;
+    height: auto;
+    background-color: rgb(1, 252, 252);
+    margin: 0 auto;
+}
+.option{
+    text-align: center;
+    width: 32vw;
+    height: auto;
+    background-color: yellow;
+    border-radius: 50vh;
+    padding-bottom: 2vh;
+    cursor: pointer;
+    font-size: 4vh;
+    align-content: center;
+    padding: 2vh;
+}
+
+.choose{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 8vh;
+    justify-content: center;
+}
+.Highlight1{
+    margin: 7vh 2vh 5vh 20vw;
+    font-size: 4vh;
+    padding: 2vh 3vw;
+    border-radius: 50vh;
+    background-color: bisque;
+    /* box-shadow: 0 1vh 0.5vh; */
+    color: blue;
+
+}
+.Highlight{
+    /* margin: 7vh 2vh 5vh 5vh; */
+    font-size: 4vh;
+    padding: 2vh 3vw;
+    border-radius: 50vh;
+    background-color: bisque;
+    /* box-shadow: 0 1vh 0.5vh; */
+    color: red;
+    
+}
+.toggle{
+    margin: 2vh 44vw;
+    font-size: 3vh;
+    padding: 2vh 4vw;
+    border-radius: 50vh;
+}
+.question{
+    text-align: center;
+}
+.Number{
+    text-align: end;
+    margin: 2vh 2vw 2vh 10vh;
+}   

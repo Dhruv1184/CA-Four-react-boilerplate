@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Irish+Grover&family=Poppins:wght@200&display=swap');
+
+.head{
+    font-family: 'Irish Grover';
+    margin: 5vh;
+}
+.Div{
+    width: 74vw;
+    height: auto;
+    background-color: aqua;
+    margin: 6vh auto;
+    text-align: center;
+    padding: 3vh 0;
+    font-size: 6vh;
+}
+.btn{
+    margin: 7vh auto;
+    font-size: 4vh;
+    padding: 2vh 2vw;
+    border-radius: 50vh;
+}
+
+.toggle{
+    margin: 2vh 44vw;
+    font-size: 3vh;
+    padding: 2vh 4vw;
+    border-radius: 50vh;
+}

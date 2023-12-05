@@ -1,16 +1,17 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import questions from "./questions";
-import Result from "./components/Result";
 import QuestionBox from "./components/QuestionBox";
+// import Result from "./components/Result";
+
 
 
 
 function App() {
 
   return (
-    <div>
-      
+    <div >
+      <QuestionBox/>
+      {/* <Result/> */}
     </div>
   );
 }
